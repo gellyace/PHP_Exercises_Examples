@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thank You</title>
+</head>
+<body>
+    <p><font face="helvetica, arial">Thank you for filling out the form, {NAME}</font></p>
+</body>
+</html>
